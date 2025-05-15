@@ -39,10 +39,10 @@ used.
 ![Screenshot 2025-05-15 110425](https://github.com/user-attachments/assets/cf932f63-37d4-415d-88b8-afb0a7683503)
 
 #### Area report:
-![Screenshot 2025-05-15 110425](https://github.com/user-attachments/assets/f7aaae68-7405-4cea-a4a2-8e2f34e351a8)
+![Screenshot 2025-05-15 110445](https://github.com/user-attachments/assets/2df1df14-eecf-4656-8118-6c5d9b6399ce)
 
 #### Power Report:
-![Screenshot 2025-05-15 110425](https://github.com/user-attachments/assets/c528938b-ec2c-460a-9049-f1a164bcb6e6)
+![Screenshot 2025-05-15 110506](https://github.com/user-attachments/assets/49ce975b-4b0e-422b-9e8f-8fb44ef30579)
 
 #### Result: 
 
